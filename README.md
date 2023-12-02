@@ -52,3 +52,11 @@ Para iniciar o bot, um comando "iniciar" deve ser enviado.
     - Inicie o cliente WhatsApp usando o código JavaScript. O bot responderá às mensagens recebidas com base nas respostas do modelo BERT.
 
 Lembre-se de configurar corretamente os caminhos dos arquivos CSV e do modelo BERT no código Python antes de iniciar.
+
+
+
+## **Agradecimentos**
+
+Gostaria de agradecer ao querido professor Josenildo, por me ajudar nesse projeto, me orientando a compreender e pesquisar os principais conteúdos pra criação desse chatbot.
+Ao IFMA e à SOFTEX pela oportunidade de participar deste Hackaton e pelo aprendizado conquistado ao decorrer desse período.
+Foi maravilhoso aprender técnicas de NLP, e entender como funciona as nuances de uma Inteligência Artificial de Linguagem Natural 🤖🤖🤖
